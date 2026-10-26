@@ -1,6 +1,6 @@
 # BlackFridayAmazon
 
-Projeto desenvolvido em Java para a disciplina Estruturas de Dados Básicas II. O objetivo é implementar e comparar duas estruturas de árvores binárias de busca balanceadas: Árvore AVL e Árvore Rubro-Negra.
+Projeto desenvolvido em Java para a disciplina de Estruturas de Dados Básicas II. O objetivo é implementar e comparar duas estruturas de árvores binárias de busca balanceadas: Árvore AVL e Árvore Rubro-Negra.
 
 As estruturas são utilizadas como protótipo para o gerenciamento de IDs de pedidos durante a Black Friday, permitindo inserir, remover, buscar e visualizar os pedidos armazenados.
 
